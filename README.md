@@ -16,7 +16,7 @@ Fishwives Studio is a small independent game studio focused on creating memorabl
 
 Our work combines handcrafted art, thoughtful design, and technical development to build worlds players enjoy returning to.
 
-The studio is run by two developers working closely together across all projects.
+The studio was started by two developers working closely together across all projects, with more artists and friends joining for upcoming projects!
 
 **Art, Design & Marketing**
 Visual direction, animation, environmental art, character design, and studio branding.
