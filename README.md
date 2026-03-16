@@ -5,7 +5,7 @@
 <h1 align="center">Fishwives Studio</h1>
 
 <p align="center">
-Independent game studio creating expressive, character-driven games.
+South African Indie game studio creating cozy, story-driven games that we've always wanted to play ourselves!
 </p>
 
 ---
@@ -18,11 +18,6 @@ Our work combines handcrafted art, thoughtful design, and technical development 
 
 The studio was started by two developers working closely together across all projects, with more artists and friends joining for upcoming projects!
 
-**Art, Design & Marketing**
-Visual direction, animation, environmental art, character design, and studio branding.
-
-**Game Development & Sound Design**
-Programming, gameplay systems, technical implementation, and audio design.
 
 ---
 
@@ -55,7 +50,8 @@ Survive endless waves of enemies while upgrading your coral tower with powerful 
 
 A **2D platformer** where you play as a lost cat trying to find its way home.
 
-Players explore colorful environments, overcome platforming challenges, and gradually uncover the path leading back home.
+Players explore colourful environments, traverse challenging platforms, and slowly uncover lost items that lead you back home. 
+Catformer is a pixel art game with emotional storytelling and magical enviroments to explore. And obviously there is a purr button!
 
 ### Early Sneak Peeks
 
